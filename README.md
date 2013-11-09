@@ -1,1 +1,3 @@
-# Learning rails with a what's for lunch app
+== WFL
+
+Learning rails with a what's for lunch app
